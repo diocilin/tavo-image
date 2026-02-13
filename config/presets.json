@@ -53,5 +53,15 @@
     "variety": false,
     "suffix": "{artist:ratatatat74}, detailed, high quality, {{{glistening skin}}}, {{sweat}}, {wet skin}, {oily skin}, {detailed skin}, [skin texture], {{dramatic lighting}}, {{high contrast}}, {volumetric light}, {rim lighting}, {warm lighting}, soft shading, {detailed background}",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
+  },
+  "c_1771004477448": {
+    "name": "我的",
+    "suffix": "houkisei,misaka_12003-gou,meion,[kaede_(sayappa),dishwasher1910],reoen, sencha_(senchat),you_shimizu,",
+    "neg": "lowres, bad anatomy, bad hands, text, error, missing fingers, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, poorly drawn, bad face, distorted face, \n{{{worst_quality}}}, {{{low_quality}}}, {{{lowres}}}, \n{{{bad_hands}}}, {{{extra_fingers}}}, {{{fused_fingers}}}, {{{wrong_hand}}}, \n{{bad_anatomy}}, {{bad_proportions}}, {{deformed}}, {{mutation}}, {{anatomically_impossible}}, \n{{{extra_limbs}}}, {{floating_limbs}}, {{fused_limbs}}, \n{{{extra_arms}}}, {{{extra_legs}}}, {{{too_many_legs}}}, \n{{bad_face}}, {{bad_eyes}}, {{asymmetrical_eyes}}, \n{{bad_skin}}, {{bad_hair}}, {{bad_texture}}, \n{{bad_pose}}, {{impossible_pose}}, {{contorted_body}}, \n{{bad_genitals}}, {{asymmetrical_breasts}}, {{bad_penis}}, {{bad_pussy}}, {{bad_anus}}, {{bad_nipples}}, {{extra_genitals}}, \n{{fused_clothing}}, {{bad_folds}}, {{impossible_clothing}}, {{clothing_clipping}}, \n{{bad_object}}, {{fused_object}}, {{bad_accessory}}, \n{{random_object}}, {{disembodied_limb}}, {{disembodied_head}}, {{random_element}}, \n{{bad_perspective}}, {{bad_depth}}, {{inconsistent_scale}}, {{spatial_error}}, \n{{bad_lighting}}, {{bad_shadow}}, {{impossible_physics}}, \nunfinished, error, \nblurry, jpeg_artifacts, \ntext, watermark, signature, logo,",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": true,
+    "variety": false
   }
 }
